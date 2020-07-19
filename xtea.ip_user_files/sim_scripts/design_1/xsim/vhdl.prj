@@ -1,0 +1,15 @@
+vhdl xil_defaultlib  \
+"../../../bd/design_1/xtea/add.vhd" \
+"../../../bd/design_1/xtea/decipher_comp.vhd" \
+"../../../bd/design_1/xtea/decipher_pipeline.vhd" \
+"../../../bd/design_1/xtea/encipher_comp2.vhd" \
+"../../../bd/design_1/xtea/encipher_pipeline.vhd" \
+"../../../bd/design_1/ipshared/a354/hdl/myxtea_v1_0_S00_AXI.vhd" \
+"../../../bd/design_1/xtea/sub.vhd" \
+"../../../bd/design_1/xtea/xtea.vhd" \
+"../../../bd/design_1/ipshared/a354/hdl/myxtea_v1_0.vhd" \
+"../../../bd/design_1/ip/design_1_myxtea_0_0/sim/design_1_myxtea_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_rst_ps7_0_100M_0/sim/design_1_rst_ps7_0_100M_0.vhd" \
+"../../../bd/design_1/sim/design_1.vhd" \
+
+nosort

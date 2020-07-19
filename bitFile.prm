@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          BPIX16
+Size               128M
+Start Address      0x00000000
+End Address        0x07FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x003DBAFB    Jul 19 17:57:16 2020    C:/Users/student/Desktop/M1_Embedded_systems/xtea/xtea.bit
