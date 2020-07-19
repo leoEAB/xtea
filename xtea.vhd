@@ -6,7 +6,7 @@ use ieee.std_logic_1164.all;
 
 entity xtea is
 	port(clk: in std_logic;
-	     rst,en : in std_logic;
+	     rst: in std_logic;
 	     rdy : out std_logic;
 	     op : in std_logic; --0 : encipher, 1 : decipher
 	     v0_in,v1_in : in std_logic_vector(31 downto 0);
